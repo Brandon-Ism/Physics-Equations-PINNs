@@ -15,6 +15,7 @@ Through this project, I have:
 - `data/`: Contains datasets used for training and testing.
 - `docs/`: Contains documentation.
   - `literature_review/`: Contains the literature review and references.
+  - `references/`: Contains additional references and learning materials.
 - `models/`: Contains neural network models.
 - `notebooks/`: Contains Jupyter notebooks with experiments and analysis.
 - `presentations/`: Contains presentation materials.
@@ -32,6 +33,10 @@ Through this project, I have:
 
 ## Literature Review
 For a detailed overview of the literature related to this project, please refer to the [literature review](docs/literature_review/literature_review.md).
+
+## Additional References
+For additional references and learning materials used throughout the project, please refer to the [additional references](docs/references/additional_references.md).
+
 
 ## Presentations
 This section includes my presentations for the project:
