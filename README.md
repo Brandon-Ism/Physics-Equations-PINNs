@@ -1,2 +1,44 @@
-# Physics-Equations-PINNs
-Implementing Physics-Informed Neural Networks (PINNs) using MLPs and KANs to solve complex differential equations in physics as part of the CSUN SfS2 summer research program.
+# Solving Physics Equations using Neural Networks
+
+## Project Overview
+This repository highlights my contributions to an advanced research project centered on solving differential equations in physics through the application of neural networks. The project leverages Physics-Informed Neural Networks (PINNs), employing both Multi-Layer Perceptrons (MLPs) and Kolmogorov-Arnold Networks (KANs) implemented in PyTorch, alongside conventional SciPy differential equation solving methods.
+
+## Goals and Objectives
+The primary focus of this research is to explore and elucidate the complex phenomenon of chaos in systems of driven damped pendulums. Our objective is to rigorously compare the efficacy of MLPs, KANs, and traditional SciPy solvers in modeling these chaotic systems under various input conditions, thereby determining the most robust approach for accurately solving these equations.
+
+## Learning Outcomes
+Through this project, I have:
+- Gained in-depth knowledge of chaotic systems and their behavior in physics.
+- Enhanced my proficiency in PyTorch and SciPy for scientific computing.
+
+## Repository Structure
+- `data/`: Contains datasets used for training and testing.
+- `docs/`: Contains documentation.
+  - `literature_review/`: Contains the literature review and references.
+- `models/`: Contains neural network models.
+- `notebooks/`: Contains Jupyter notebooks with experiments and analysis.
+- `presentations/`: Contains presentation materials.
+  - `posters/`: Contains poster presentations.
+  - `powerpoints/`: Contains PowerPoint presentations.
+- `results/`: Contains results and plots.
+- `scripts/`: Contains training and evaluation scripts.
+
+## Key Contributions
+
+
+### Presentations and Documentation
+- Created comprehensive documentation and literature reviews to support the project.
+- Developed and presented posters and PowerPoint presentations at the university research symposium.
+
+## Literature Review
+For a detailed overview of the literature related to this project, please refer to the [literature review](docs/literature_review/literature_review.md).
+
+## Presentations
+This section includes my presentations for the project:
+- **Posters:**
+  - [Project Poster](presentations/posters/project_poster.pdf): A PDF of the poster presented at the university research symposium.
+- **PowerPoints:**
+  - [Project Presentation](presentations/powerpoints/project_presentation.pptx): A PowerPoint presentation detailing the project.
+
+## Contact
+For any questions or further information, please contact me at [brandonDOTismalejDOT671ATmyDOTcsunDOTedu].
