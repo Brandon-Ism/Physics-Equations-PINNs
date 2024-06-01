@@ -36,9 +36,9 @@ For a detailed overview of the literature related to this project, please refer 
 ## Presentations
 This section includes my presentations for the project:
 - **Posters:**
-  - [Project Poster](presentations/posters/project_poster.pdf): A PDF of the poster presented at the university research symposium.
+  - [Project Poster](presentations/project_poster.pdf): A PDF of the poster presented at the university research symposium.
 - **PowerPoints:**
-  - [Project Presentation](presentations/powerpoints/project_presentation.pptx): A PowerPoint presentation detailing the project.
+  - [Project Presentation](presentations/project_presentation.pptx): A PowerPoint presentation detailing the project.
 
 ## Contact
 For any questions or further information, please contact me at [brandonDOTismalejDOT671ATmyDOTcsunDOTedu].
