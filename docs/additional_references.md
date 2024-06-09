@@ -13,6 +13,8 @@ This document lists additional references and learning materials that I used thr
 - Author(s), *Title of Book*, Publisher, Year. [Link](https://link_to_book)
 
 ## Research Papers
+- “KAN: Kolmogorov–Arnold Networks.” Accessed: Jun. 09, 2024. [Online]. Available: https://arxiv.org/html/2404.19756v1
+
 - “13: Pendulum Dynamics,” Mathematics LibreTexts. Accessed: Jun. 07, 2024. [Online]. Available: https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Scientific_Computing_(Chasnov)/II%3A_Dynamical_Systems_and_Chaos/13%3A_Pendulum_Dynamics
 
 - S. Cuomo, V. S. Di Cola, F. Giampaolo, G. Rozza, M. Raissi, and F. Piccialli, “Scientific Machine Learning Through Physics–Informed Neural Networks: Where we are and What’s Next,” J Sci Comput, vol. 92, no. 3, p. 88, Jul. 2022, doi: 10.1007/s10915-022-01939-z.
