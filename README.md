@@ -12,17 +12,15 @@ Through this project, I have:
 - Enhanced my proficiency in PyTorch and SciPy for scientific computing.
 
 ## Repository Structure
-- `data/`: Contains datasets used for training and testing.
+- `data/`: Contains datasets of training data and solution data.
 - `docs/`: Contains documentation.
   - `literature_review/`: Contains the literature review and references.
   - `references/`: Contains additional references and learning materials.
-- `models/`: Contains neural network models.
 - `notebooks/`: Contains Jupyter notebooks with experiments and analysis.
 - `presentations/`: Contains presentation materials.
   - `posters/`: Contains poster presentations.
   - `powerpoints/`: Contains PowerPoint presentations.
 - `results/`: Contains results and plots.
-- `scripts/`: Contains training and evaluation scripts.
 
 ## Key Contributions
 
