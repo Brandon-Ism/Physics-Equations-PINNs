@@ -19,7 +19,7 @@ sol = solve_ivp(driven_damped_pendulum, [t[0], t[-1]], y0, args=(omega_val, lamb
 
 Training points for KAN:
 ```
-x_physics = torch.linspace(0, 15, 15000).view(-1,1).requires_grad_(True) # sample locations over the problem domain
+x_physics = torch.linspace(0, 15, 10000).view(-1,1).requires_grad_(True) # sample locations over the problem domain
 ```
 
 Weights and Dimensions of KAN:
@@ -27,7 +27,7 @@ Weights and Dimensions of KAN:
 physics_weight = 1e-3
 model = KAN(width=[1,15,15,1], grid=5, k=3, seed=0)
 ```
-KAN trained over 15,000 epochs:
+KAN trained over 14,500 epochs:
 ```
-epochs = 15000
+epochs = 14500
 ```
