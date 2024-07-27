@@ -31,3 +31,5 @@ KAN trained over 14,500 epochs:
 ```
 epochs = 14500
 ```
+
+![KAN solution vs. Numerical Solution for gamma = 0.8](best_KAN_gamma_0_8.png)
