@@ -29,8 +29,6 @@ Through this project, I have:
 - Created comprehensive documentation and literature reviews to support the project.
 - Developed and presented posters and PowerPoint presentations at the university research symposium.
 
-## Literature Review
-For a detailed overview of the literature related to this project, please refer to the [literature review](docs/literature_review/literature_review.md).
 
 ## Additional References
 For additional references and learning materials used throughout the project, please refer to the [additional references](docs/references/additional_references.md).
